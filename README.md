@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Aditi
 
-Computer Science graduate currently pursuing a Master’s in Data Science, with a strong interest in analytics, machine learning, and building data-driven solutions.
+Computer Science graduate currently pursuing a Master’s in Data Science, with a strong interest in analytics, machine learning, and solving real-world problems through data.
 
 - Skilled in **Python, SQL, R, Machine Learning, and Power BI**
 - Interested in **data analysis, predictive modeling, and extracting actionable insights from data**
